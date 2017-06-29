@@ -5,7 +5,7 @@ public class ExemploA {
 		
 		int a;
 		int b;
-		a = 10;
+		a = 30;
 		b = 6;
 		
 		System.out.println(a);
