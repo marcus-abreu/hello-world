@@ -5,7 +5,11 @@ public class ExemploA {
 		
 		int a;
 		int b;
+<<<<<<< HEAD
 		a = 30;
+=======
+		a = 20;
+>>>>>>> branch 'master' of https://github.com/marcus-abreu/hello-world.git
 		b = 6;
 		
 		System.out.println(a);
