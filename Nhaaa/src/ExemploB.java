@@ -36,6 +36,8 @@ public class ExemploB {
 		System.out.print("\nO quadrado de " + N1 + " é: " + quadrado);
 		System.out.print("\nA raiz quadrada de " + N1 + " é: " + raiz2);
 		System.out.print("\nA raiz cúbica de " + N2 + " é: " + raiz3 + "\n");
+		
+		entrada.close();
 
 	}
 	
