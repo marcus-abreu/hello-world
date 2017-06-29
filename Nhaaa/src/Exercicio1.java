@@ -52,10 +52,6 @@ public class Exercicio1 {
 		
 		//Cálculos dos resultados
 		
-		//int cConvertido;
-		//cConvertido = Integer.parseInt(c);
-		//respostaA = 2 * (b % cConvertido) + 3;
-		
 		respostaA = 2 * (b % c) + 3;
 		System.out.println("O resultado de [[[ 2 * (b % c) + 3 ]]] é " + respostaA);
 		
