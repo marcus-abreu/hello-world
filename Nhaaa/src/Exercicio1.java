@@ -4,7 +4,6 @@ public class Exercicio1 {
 	
 	public static void main(String[] args) {
 		
-		
 		//Declaração das variáveis de entrada
 		int a;
 		int b;
@@ -14,7 +13,6 @@ public class Exercicio1 {
 		int d;
 		char e;
 		boolean f;
-		
 		
 		
 		//Entrada de dados pelo usuário
@@ -41,7 +39,6 @@ public class Exercicio1 {
 		f = entrada.nextBoolean();
 		
 		
-		
 		//Declaração das variáveis dos resultados
 		double respostaA;
 		double respostaB;
@@ -51,7 +48,6 @@ public class Exercicio1 {
 		boolean respostaF;
 		boolean respostaG;
 		String respostaH;
-		
 		
 		
 		//Cálculos dos resultados
