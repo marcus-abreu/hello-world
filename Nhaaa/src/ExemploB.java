@@ -12,10 +12,10 @@ public class ExemploB {
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.println("Entrada de dados:");
-		System.out.print("Entre com o primeiro valor:");
+		System.out.print("Entre com o 1º valor:");
 		N1 = entrada.nextInt();
 		
-		System.out.print("Entre com o segundo valor:");
+		System.out.print("Entre com o 2º valor:");
 		N2 = entrada.nextInt();
 
 		// cálculos
